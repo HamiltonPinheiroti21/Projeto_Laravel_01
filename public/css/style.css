@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(63, 62, 62);
+}
+
+h1 {
+    color: white;
+    font-weight: bolder;
+}
+
+footer {
+    color: white;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    box-shadow: 3px 3px 3px #000;
+}
+
+table tr td {
+    color: white;
+    text-align: center;
+}
+
+table tr th {
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: #202020;
+    margin-top: 100px;
+    padding: 20px 0px;
+}
+
+.form-group>label {
+    font-weight: bolder;
+}
+
+h1.bemvindo {
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(46, 46, 46);
+}
